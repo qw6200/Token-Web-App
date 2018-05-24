@@ -5,6 +5,8 @@ body {
 }
 
 .heading {
+  padding-top: 10px;
+  padding-bottom: 40px;
   /*font-family: 'IBM Plex Sans', sans-serif;*/
   font-family: 'Raleway', sans-serif;
   /*font-family: 'Merriweather', serif;*/

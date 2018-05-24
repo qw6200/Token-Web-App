@@ -1,0 +1,33 @@
+ol {
+    width: 20%;
+    text-align: center;
+    margin-left: 38.5%;
+}
+
+
+
+.Modal {
+    position: absolute;
+    z-index: 1000; /* Something high */
+    height: 400px;
+    width: 400px;
+    background: white;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px; /* Negative half width */
+    margin-top: -200px; /* Negative half height */
+    box-shadow: 0 0 0 2038px rgba(0,0,0,.5); 
+    -webkit-transition: 1s; 
+    border-radius: 7px;
+    border: #134972 solid;
+
+
+}
+.Modal h3 {
+    padding: 10px;
+    text-align: center;
+}
+.Modal button {
+    margin-left: 36%;
+    float: center;
+}
